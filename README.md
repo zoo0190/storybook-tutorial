@@ -8,5 +8,6 @@
   [storybook 공식문서](https://storybook.js.org/)
   <br />
   [addon-knobs](https://www.npmjs.com/package/@storybook/addon-knobs#available-knobs)<br />
+  [addon-actions](https://www.npmjs.com/package/@storybook/addon-actions?activeTab=readme) <br />
 
 > velopert님 블로그를 기본으로 하였으며, 버전업 되면서 바뀐 부분은 공식문서를 찾아가며 작성했습니다.
