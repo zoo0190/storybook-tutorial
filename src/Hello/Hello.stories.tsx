@@ -29,5 +29,5 @@ hello.story = {
   name: 'Default',
 };
 
-export const standard = () => <Hello name="Storybook" />;
-export const big = () => <Hello name="Storybook" big />;
+export const standard = () => <Hello name='Storybook' />;
+export const big = () => <Hello name='Storybook' big />;

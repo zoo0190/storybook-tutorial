@@ -1,9 +1,11 @@
 # storybook 사용법
+
 ## 참고자료
+
 - velopert 블로그 <br />
   [TypeScript와 Storybook을 사용한 리액트 디자인 시스템 구축하기](https://velog.io/@velopert/design-system-using-typescript-and-storybook) <br />
   [Storybook을 다양한 Addon과 함께 활용해보면서 사용법 정복하기](https://velog.io/@velopert/start-storybook)
-  
+  [Storybook 프로젝트에서 TypeScript로 컴포넌트의 props 문서화 편하게 하기](https://velog.io/@velopert/storybook-typescript-props-documentation)
 - storybook 공식문서 및 npm <br />
   [storybook 공식문서](https://storybook.js.org/)
   <br />
